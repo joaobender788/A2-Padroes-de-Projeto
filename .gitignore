@@ -1,4 +1,3 @@
-# --- Java / Compilação ---
 *.class
 *.jar
 *.war
@@ -7,14 +6,10 @@
 *.zip
 *.tar.gz
 *.rar
-
-# Pastas de build e saída de compiladores
 bin/
 out/
 target/
 build/
-
-# --- IDEs / Editores (VS Code, Eclipse, IntelliJ) ---
 .vscode/
 .settings/
 .classpath
@@ -22,8 +17,6 @@ build/
 .factorypath
 *.iml
 .idea/
-
-# --- Sistema Operacional ---
 *.log
 hs_err_pid*
 .DS_Store
